@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZipFileDLL", "ZipFileDLL\ZipFileDLL.vcproj", "{DDE061C2-C129-4C6A-8259-EDD71509FD6F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLTEST", "DLLTEST\DLLTEST.vcproj", "{1132D9C6-34BC-4CA4-8EEF-C897CDC7BE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE061C2-C129-4C6A-8259-EDD71509FD6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDE061C2-C129-4C6A-8259-EDD71509FD6F}.Debug|Win32.Build.0 = Debug|Win32
+		{DDE061C2-C129-4C6A-8259-EDD71509FD6F}.Release|Win32.ActiveCfg = Release|Win32
+		{DDE061C2-C129-4C6A-8259-EDD71509FD6F}.Release|Win32.Build.0 = Release|Win32
+		{1132D9C6-34BC-4CA4-8EEF-C897CDC7BE96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1132D9C6-34BC-4CA4-8EEF-C897CDC7BE96}.Debug|Win32.Build.0 = Debug|Win32
+		{1132D9C6-34BC-4CA4-8EEF-C897CDC7BE96}.Release|Win32.ActiveCfg = Release|Win32
+		{1132D9C6-34BC-4CA4-8EEF-C897CDC7BE96}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
